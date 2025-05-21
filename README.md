@@ -21,3 +21,7 @@
 In the python console, you can see the debug output that was needed at the development stage.
 
 The data used are production data from one of the Slovenian metallurgical enterprises.
+
+
+# При возникновении вопросов или предложений можете заглянуть в секцию Discussions в раздел комментариев
+# If you have any questions or suggestions, you can take a look at the Discussions section in the comments section
